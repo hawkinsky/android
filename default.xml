@@ -331,7 +331,7 @@
 
 <!--  NOTE: FORKED PROJECTS   -->
 
-<project path="build" name="tpruvot/android_build">
+<project path="build" name="android_build" remote="T" revision="jellybean">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 <!--  
